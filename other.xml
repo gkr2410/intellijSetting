@@ -1,0 +1,40 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Desktop/jjm_style.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="10.15.1" last-modified="1548715800000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6690734" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.80453753" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FindSplitterProportion" value="0.25218734" />
+    <property name="InstalledPluginsSearchHistory" value="javascript standard" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="setting repo&#10;export&#10;style&#10;indent&#10;intent" />
+    <property name="Vcs.Log.Text.Filter.History" value="다중&#10;멀티&#10;포장" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="dir.diff.panel.divider.location" value="60" />
+    <property name="evlsprt3.183" value="14" />
+    <property name="file.chooser.recent.files" value="C:/git/201902-smallbee-api-lambda/source/smallbee-api&#10;C:/Users/PBC/Desktop&#10;C:/Users/PBC/AndroidStudioProjects&#10;C:/git/201911-smallbee-frontend-statistics/source/smallbee-statistics&#10;C:/git/front-store/source/smallbee-store&#10;C:/git/201908-smallbee-frontend-tableorder/source/smallbee-tableorder&#10;C:/git/201512-kocsa-kms/source/kocsa-kms-web&#10;C:/git/201907-smallbee-frontend-store-cafe/source/smallbee-store-cafe&#10;C:/git/201702-triplestreet-intra/source/intra-web&#10;C:/git/201702-triplestreet-intra/source/intra-app&#10;C:/Users/PBC/Desktop/jjm_style.xml&#10;C:/git/201904-smallbee-frontend-storedisplay/source/smallbee-storedisplay&#10;C:/git/front-producter/source/smallbee-producter&#10;C:/git/201808-smallbee-frontend-mobilestore/source/smallbee-mobilestore&#10;C:/git/201909-smallbee-frontend-login/source/smallbee-login&#10;C:/git/201808-smallbee-db/source&#10;C:/git/201808-smallbee-db/source/insert-new-store.sql&#10;C:/git/201911-smallbee-frontend-statistics/source/smallbee-headstore&#10;C:/git/201808-smallbee-db/source/create-table.sql&#10;C:/git/front-user/source/smallbee-user&#10;C:/git/201908-smallbee-frontend-tableorder/README.md&#10;C:/git/front-producter/.gitignore&#10;C:/git/front-store/source/smallbee-store/libs/plugins/NiceCat-NC6000-plugin-V2/cordova-plugin-letson-nicecat-v2&#10;C:/git/201909-smallbee-frontend-login/source/smallbee-login/static/login/cordova/plugins/kr.co.letson.plugin.kicc.kicccat&#10;C:/Users/PBC/Desktop/DefaultStyle.xml&#10;C:/Users/PBC/Desktop/TEST&#10;C:/git/201906-skhns-amr/source/ams-mobile-app&#10;C:/git/201906-skhns-amr/source/ams-pkg&#10;C:/git/201906-skhns-amr/source/ams-server&#10;C:/git/front-store/.gitignore" />
+    <property name="file.gist.reindex.count" value="191723" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.74271077" />
+  </component>
+</application>
